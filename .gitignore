@@ -1,0 +1,11 @@
+# Protect secret API keys
+.env
+
+# Ignore virtual environment & Python cache
+venv/
+__pycache__/
+*.pyc
+
+# Ignore temporary downloaded videos/audio/frames
+temp_media/
+temp_uploads/

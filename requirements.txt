@@ -1,0 +1,11 @@
+streamlit
+groq
+python-dotenv
+librosa
+numpy
+opencv-python
+yt-dlp
+imageio-ffmpeg
+ddgs
+beautifulsoup4
+indic-transliteration
